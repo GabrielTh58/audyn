@@ -1,12 +1,12 @@
-import NewProducts from "@/components/home/NewProducts";
+import NewProducts from "@/components/landing/NewProducts";
 import Header from "@/components/shared/Header";
-import HeroText from "@/components/home/HeroText";
-import StoreAdvantages from "@/components/home/StoreAdvantages";
+import HeroText from "@/components/landing/HeroText";
+import StoreAdvantages from "@/components/landing/StoreAdvantages";
 import Footer from "@/components/shared/Footer";
-import Testimonials from "@/components/home/Testimonials";
-import Categories from "@/components/home/Categories";
-import NewsLetter from "@/components/home/Newsletter";
-import PromoBanner from "@/components/home/PromoBanner";
+import Testimonials from "@/components/landing/Testimonials";
+import Categories from "@/components/landing/Categories";
+import NewsLetter from "@/components/landing/Newsletter";
+import PromoBanner from "@/components/landing/PromoBanner";
 
 export default function Home() {
   return (

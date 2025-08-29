@@ -5,19 +5,19 @@ import RelatedProducts from "@/components/product-details/RelatedProducts";
 import Footer from "@/components/shared/Footer";
 import Header from "@/components/shared/Header";
 import { Product } from "@/core";
-import {useProducts} from "@/hooks/useProducts";
+import { Products } from "@/functions/products";
 import { notFound } from "next/navigation";
+import { use } from "react";
 
 interface ProductPageProps {
-  params: {
-    slug: string
-  }
+  params: Promise<{ slug: string }>;
 }
 export default function ProductPage({ params }: ProductPageProps) {
-  const { slug } = params
-  const { getItemsBySlug } = useProducts()
+  const { slug } = use(params);
+  
+  const { getItemsBySlug } = Products()
 
-  const product: Product | undefined = getItemsBySlug(slug)
+  const product: Product | undefined = getItemsBySlug(slug);
 
   if (!product) return notFound()
 

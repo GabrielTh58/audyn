@@ -35,6 +35,6 @@ export interface Product {
   description: string;
   features: string;
   includes: IncludedItem[];
-  gallery: Gallery;
+  gallery?: Gallery;
   others: RelatedProduct[];
 }

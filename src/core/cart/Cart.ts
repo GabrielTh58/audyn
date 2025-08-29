@@ -52,7 +52,7 @@ export class Cart {
   }
 
   total(): number {
-    return this.subtotal() + this.shippingValue - this.calculateDiscount();
+    return this.subtotal() + this.shippingValue -  this.calculateDiscount();
   }
 
   calculateDiscount = (): number => {
