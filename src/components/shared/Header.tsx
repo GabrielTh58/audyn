@@ -24,7 +24,7 @@ export default function Header({ className }: HeaderProps) {
 
   return (
     <header
-      className={`w-full py-8  md:py-9 border-b border-zinc-800 ${className}`}
+      className={`container w-full py-8  md:py-9 border-b border-zinc-800 ${className}`}
     >
       <div className="lg:container px-6 flex justify-between items-center relative">
         <Logo />
