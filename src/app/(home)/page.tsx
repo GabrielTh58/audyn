@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <main className="flex flex-col gap-16">
         <div
-        className="bg-[#0e0e0e] h-[800px] 2xl:py-5
+        className="bg-[#0e0e0e] h-[800px] 2xl:h-screen 2xl:py-5
         bg-[url('/products/home/mobile/image-hero.jpg')] 
         sm:bg-[url('/products/home/tablet/image-hero.jpg')] 
         lg:bg-[url('/products/home/desktop/image-hero.jpg')] bg-center bg-cover bg-no-repeat"

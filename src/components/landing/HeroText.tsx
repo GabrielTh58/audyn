@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function HeroText() {
   return (
     <div className="container flex items-center justify-center lg:justify-start mt-36">
-      <div className="flex flex-wrap flex-col items-center justify-center md:items-start gap-6 px-4 md:px-0">
+      <div className="flex flex-wrap flex-col items-center justify-center lg:items-start gap-6 px-4 md:px-0">
         <h3 className="text-sm tracking-[14px] bg-clip-text text-transparent bg-gradient-to-r from-orange-400 to-orange-600">
           NOVO
         </h3>
