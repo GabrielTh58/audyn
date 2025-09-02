@@ -58,7 +58,7 @@ A aplicação está hospedada e pode ser acessada no seguinte 🔗 [Link](https:
    
 2. Acesse o diretório do projeto:
    ```sh
-    cd audiophile-store
+    cd audyn
 
 4. Instale as dependências:
    ```sh
