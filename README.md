@@ -54,7 +54,7 @@ A aplicação está hospedada e pode ser acessada no seguinte 🔗 [Link](https:
 1. Clone este repositório:  
 
    ```sh
-   git clone https://github.com/seu-usuario/audiophile-store.git
+    https://github.com/GabrielTh58/audyn.git
    
 2. Acesse o diretório do projeto:
    ```sh
