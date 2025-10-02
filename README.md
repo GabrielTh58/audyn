@@ -14,7 +14,7 @@
 
 ---
 
-Audiophile Store é um e-commerce moderno inspirado no desafio do Frontend Mentor, projetado para a venda de equipamentos de áudio premium. O projeto inclui catálogo de produtos, páginas detalhadas, sistema de carrinho de compras e foi desenvolvido com foco em **experiência do usuário, componentização e testes**.  
+Audyn é um e-commerce moderno projetado para a venda de equipamentos de áudio premium. O projeto inclui catálogo de produtos, páginas detalhadas, sistema de carrinho de compras e foi desenvolvido com foco em **experiência do usuário, componentização e testes**.  
 
 ---
 
