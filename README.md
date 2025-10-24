@@ -4,12 +4,6 @@
  <img src="./public/logo.png" alt="Logo" />
 
 <div data-badges>
-    <img src="https://img.shields.io/github/stars/GabrielTh58/audyn?style=for-the-badge" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/forks/GabrielTh58/audyn?style=for-the-badge" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues/GabrielTh58/audyn?style=for-the-badge" alt="GitHub issues" />
-</div>
-
-<div data-badges>
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
@@ -20,7 +14,7 @@
 
 ---
 
-Audiophile Store é um e-commerce moderno inspirado no desafio do Frontend Mentor, projetado para a venda de equipamentos de áudio premium. O projeto inclui catálogo de produtos, páginas detalhadas, sistema de carrinho de compras e foi desenvolvido com foco em **experiência do usuário, componentização e testes**.  
+Audyn é um e-commerce moderno projetado para a venda de equipamentos de áudio premium. O projeto inclui catálogo de produtos, páginas detalhadas, sistema de carrinho de compras e foi desenvolvido com foco em **experiência do usuário, componentização e testes**.  
 
 ---
 
