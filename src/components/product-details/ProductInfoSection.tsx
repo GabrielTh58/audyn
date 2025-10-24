@@ -80,7 +80,7 @@ export default function ProductInfoSection(props: ProductInfoSectionProps) {
 }
 function RenderStoreAdvantage() {
   return (
-    <div className="flex flex-col xs:flex-row items-center gap-6  my-8">
+    <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6  my-8">
       <div className="flex-1 flex flex-col xl:flex-row items-center gap-4 xs:gap-2 sm:gap-4">
         <div className="text-orange-300">
           <IconTruckDelivery width={40} height={40} />
